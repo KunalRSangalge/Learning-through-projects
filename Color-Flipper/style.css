@@ -1,0 +1,39 @@
+#heading{
+    font-size: 6rem;
+    text-align: center;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+#btn1{
+    background-color: red;
+    color: yellow;
+    font-size: 2rem;
+    padding: 1rem 2rem;
+    width: 200px;
+}
+#btn2{
+    background-color: green;
+    color: black;
+    font-size: 2rem;
+    padding: 1rem 2rem;
+    width: 200px;
+}
+#btn3{
+    background-color: blue;
+    color: black;
+    font-size: 2rem;
+    padding: 1rem 2rem;
+    width: 200px;
+}
+#btn4{
+    background-color: grey;
+    color: black;
+    font-size: 2rem;
+    padding: 1rem 2rem;
+    width: 200px;
+}
